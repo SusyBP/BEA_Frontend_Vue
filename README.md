@@ -1,4 +1,4 @@
-# testing_vue_cli
+# BEA_Frontend_Vue
 
 ## Project setup
 ```
